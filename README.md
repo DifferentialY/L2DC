@@ -22,8 +22,8 @@ If you find our work useful in your research, please consider citing:
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
   title={Learning to Discriminate While Contrasting: Combating False Negative Pairs with Coupled Contrastive Learning for Incomplete Multi-View Clustering}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-15}
+  volume={37},
+  number={10},
+  pages={6046-6060}
 }
 ```
